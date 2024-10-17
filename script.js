@@ -5,4 +5,4 @@ function showAlert() {
 window.onload = function() {
     var button = document.getElementById("welcomeButton");
     button.onclick = showAlert;
-};
+};    
